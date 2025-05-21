@@ -48,15 +48,6 @@ Close Chrome completely.
 
 Reopen Chrome — your saved websites will open if they’re not already open!
 
-🛠 Project Structure
-bash
-Copy
-Edit
-📁 startup-tab-checker/
-├── manifest.json          # Chrome extension configuration
-├── background.js          # Background logic for checking and opening tabs
-├── popup.html             # Popup UI for managing URLs
-└── popup.js               # Script for popup functionality
 💡 Example Use Case
 You always want these websites open when you start work:
 
