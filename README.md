@@ -18,8 +18,8 @@ Whether it's Gmail, Google Calendar, or any site you need daily – this tool sa
 
 ## 📦 Installation & Setup
 
-### Step 1: Download or Clone
-git clone https://github.com/Jassi220205/startup-tab-checker.git
+### Step 1: Download zip file
+
 Step 2: Load the Extension into Chrome
 Open Chrome
 
